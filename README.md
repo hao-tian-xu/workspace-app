@@ -13,9 +13,9 @@ Workspace is a macOS productivity app that lets you organize open windows into n
 - **Multi-window apps** — Add individual windows from the same app to different spaces
 - **Add apps easily** — Browse or search installed apps; pick specific windows for multi-window apps
 
-## Screenshots
+## Demo
 
-<!-- TODO: Add screenshots/GIF demo -->
+![Image](https://github.com/user-attachments/assets/bba874e1-eb02-479a-a605-994da0086073)
 
 ## Download
 
