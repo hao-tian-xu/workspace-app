@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cosm</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 18 Apr 2026 22:34:48 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/hao-tian-xu/cosm-app/releases/download/v0.1.0/Cosm-0.1.0.dmg" length="1393432" type="application/octet-stream" sparkle:edSignature="fTZ6kIznTYRO1dONo+USzbLGAbARJYqkm4bulAp2gPWma9t0wH9kaSNHdJTMLib5/9t6rQ/MdQkaqGwqS/GOBw=="/>
+        </item>
+    </channel>
+</rss>

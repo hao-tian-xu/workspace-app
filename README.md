@@ -24,7 +24,7 @@ Cosm is short for *microcosm* — a small, self-contained world. Each Space in C
 
 ## Download
 
-**[Download Cosm v0.1.0-beta](https://github.com/hao-tian-xu/cosm-app/releases/latest)**
+**[Download Cosm v0.1.0](https://github.com/hao-tian-xu/cosm-app/releases/latest)**
 
 ## Requirements
 
