@@ -24,7 +24,7 @@ Cosm is short for *microcosm* — a small, self-contained world. Each Space in C
 
 ## Download
 
-**[Download Cosm v0.1.0](https://github.com/hao-tian-xu/cosm-app/releases/latest)**
+**[Download Cosm v0.1.0](https://github.com/ianhxu/cosm-app/releases/latest)**
 
 ## Requirements
 
@@ -33,7 +33,7 @@ Cosm is short for *microcosm* — a small, self-contained world. Each Space in C
 
 ## Installation
 
-1. Download the `.dmg` file from the [latest release](https://github.com/hao-tian-xu/cosm-app/releases/latest)
+1. Download the `.dmg` file from the [latest release](https://github.com/ianhxu/cosm-app/releases/latest)
 2. Open the `.dmg` and drag **Cosm** to your Applications folder
 3. Launch Cosm — on first launch, grant **Accessibility** permission when prompted
    - If you missed the prompt: System Settings → Privacy & Security → Accessibility → enable Cosm
@@ -49,7 +49,7 @@ This is an early beta. Some things to be aware of:
 
 ## Feedback
 
-Found a bug or have a feature request? [Open an issue](https://github.com/hao-tian-xu/cosm-app/issues/new/choose).
+Found a bug or have a feature request? [Open an issue](https://github.com/ianhxu/cosm-app/issues/new/choose).
 
 ## License
 
